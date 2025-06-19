@@ -1,0 +1,30 @@
+[font]
+size = 14.0
+
+[font.bold]
+family = "MesloLGM Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "MesloLGM Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "MesloLGM Nerd Font"
+style = "Regular"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[window]
+opacity = 0.6
+title = "Alacritty"
+
+[window.dimensions]
+columns = 150
+lines = 30
+
+[window.position]
+x = 0
+y = 0
