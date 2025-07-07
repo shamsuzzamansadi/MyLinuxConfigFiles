@@ -1,6 +1,6 @@
-## Credit: BreadOnPenguins as this guide is based on her **Neovim** configuration
+## Sadi's **Nvim** Config
 
-#### Sadi's **Nvim** Config
+#### Credit: BreadOnPenguins as this guide is based on her **Neovim** configuration
 
 <br>
 
@@ -11,8 +11,14 @@
 <br> 
 
 ### Quickstart with my config:
+The original repo came from this repo:
 ```
-cd ~/.config/ && git clone https://github.com/BreadOnPenguins/nvim
+ git clone https://github.com/BreadOnPenguins/nvim
+```
+My repo is as follows:
+```
+cd ~/.config && git clone https://github.com/shamsuzzamansadi/MyLinuxConfigFiles && rm -rf nvim && mv MyLinuxConfigFiles/nvim-2 nvim && rm -rf MyLinuxConfigFiles
+
 ```
 - On first boot, run `:PlugInstall` to ensure all plugins are installed and updated with [vim-plug](https://github.com/junegunn/vim-plug)
 - Key maps are in `lua/config/mappings.lua`
