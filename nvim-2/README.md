@@ -1,6 +1,6 @@
 ## Sadi's **Nvim** Config
 
-#### Credit: BreadOnPenguins as this guide is based on her **Neovim** configuration
+#### Credit: BreadOnPenguins as this guide is based on her **Neovim** [configuration](https://github.com/BreadOnPenguins/nvim)
 
 <br>
 
